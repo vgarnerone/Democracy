@@ -22,4 +22,12 @@ We split countries in four groups : Full democracy, flawed democracy, hybrid reg
 
 3) Machine learning xgboost
 
-We use a train test method to build a model that will predict the political regime of a country giving a set of parameter.
+We use a train test method to build a xgboost model that will predict the political regime of a country giving a set of parameters.
+
+4) K-Fold Cross Validation
+
+We use a train test method to build SVM model that will predict the political regime of a country giving a set of parameters.
+
+5) Which country...
+
+A serie of few questions answered using Pandas on our data.
