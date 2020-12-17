@@ -31,3 +31,7 @@ We use a train test method to build SVM model that will predict the political re
 5) Which country...
 
 A serie of few questions answered using Pandas on our data.
+
+6) Deep Learning - Neuronal Network
+
+We use Keras from TensorFlow to create a neuronal network model to predict if a country is a democracy or not according to some demographical parameters.
